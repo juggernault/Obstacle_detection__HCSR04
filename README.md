@@ -58,6 +58,6 @@ Maintainer: Dhiraj, email: dhiraj@navstik.org
       iv. Restart flytOS.
 
 
-![alt tag](https://cloud.githubusercontent.com/assets/10280687/17398315/c8031880-5a59-11e6-84ae-be1d31a32f2e.png)
+![alt tag](https://cloud.githubusercontent.com/assets/13434353/17547419/bfc44860-5f04-11e6-85e6-dbfcd2564dbf.png)
       
   
